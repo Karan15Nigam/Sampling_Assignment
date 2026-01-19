@@ -1,12 +1,12 @@
 # Sampling
-Credit Card Fraud Detection – Sampling Techniques Study
-Overview
+**Credit Card Fraud Detection – Sampling Techniques Study
+Overview**
 
 In real-world datasets, one class often appears much more frequently than the other. This project explores how different sampling techniques affect the performance of various machine learning models when working with a highly imbalanced credit card fraud dataset.
 
 The goal of this work is not just to build a model, but to understand how data balancing methods influence model accuracy and why choosing the right sampling technique matters.
 
-Dataset
+**Dataset**
 
 The dataset used contains credit card transaction records where:
 
@@ -16,8 +16,8 @@ Only a very small number are fraudulent
 
 Because fraud cases are rare, the dataset is highly imbalanced. This makes it a good example for studying sampling techniques used in machine learning.
 
-What Was Done
-
+**What Was Done
+**
 The project was completed in the following steps:
 
 1)Explored the dataset to understand the class imbalance.
