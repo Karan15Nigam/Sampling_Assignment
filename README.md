@@ -16,8 +16,7 @@ Only a very small number are fraudulent
 
 Because fraud cases are rare, the dataset is highly imbalanced. This makes it a good example for studying sampling techniques used in machine learning.
 
-**What Was Done
-**
+**What Was Done**
 The project was completed in the following steps:
 
 1)Explored the dataset to understand the class imbalance.
