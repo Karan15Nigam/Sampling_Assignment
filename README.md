@@ -8,7 +8,7 @@ The goal of this work is not just to build a model, but to understand how data b
 
 **Dataset**
 
-The dataset used contains credit card transaction records where:
+The dataset used(Creditcard_data.csv) contains credit card transaction records where:
 
 Most transactions are legitimate
 
@@ -21,7 +21,7 @@ The project was completed in the following steps:
 
 1)Explored the dataset to understand the class imbalance.
 
-2)Created five samples using Stratified 5-Fold Cross Validation so that each split preserved the original class distribution.
+2)Created five samples using Stratified 5-Fold Cross Validation so that each split preserved the original class distribution and created a new balanced dataset(balanced_df.csv).
 
 3)Applied five different sampling techniques to handle the imbalance:
 
@@ -49,4 +49,4 @@ The project was completed in the following steps:
 
 5)Evaluated model performance using accuracy, averaged across all five folds.
 
-6)Compared results and analyzed which sampling technique worked best for each model.
+6)Compared results and analyzed which sampling technique worked best for each model and stored the results in a .csv file(accuracy_results.csv).
